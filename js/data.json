@@ -1,0 +1,1418 @@
+{
+    "chicagoTop10":[
+        {
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/University-of-Chicago-Laboratory-Schools/",
+                "location": "Hyde Park"
+            },
+            "name": "University of Chicago Laboratory Schools",
+            "ranks": {
+                "primary_rank": {
+                    "value": 1,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>The mother ship of progressive education puts focus on diversity and civics (with some famous names sprinkled in).</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/Latin-School-of-Chicago/",
+                "location": "Near North Side"
+            },
+            "name": "Latin School of Chicago",
+            "ranks": {
+                "primary_rank": {
+                    "value": 2,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>The nearly 130-year-old school is a place where tradition meets modernity.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/Francis-W-Parker-School/",
+                "location": "Lincoln Park"
+            },
+            "name": "Francis W. Parker School",
+            "ranks": {
+                "primary_rank": {
+                    "value": 3,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>This North Side school invites (and instructs) students to think outside the box.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/Lake-Forest-Academy/",
+                "location": "Lake Forest"
+            },
+            "name": "Lake Forest Academy",
+            "ranks": {
+                "primary_rank": {
+                    "value": 4,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>This North Shore boarding school has an international outlook.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/North-Shore-Country-Day-School/",
+                "location": "Winnetka"
+            },
+            "name": "North Shore Country Day School",
+            "ranks": {
+                "primary_rank": {
+                    "value": 5,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>Small class sizes mean participation (and extracurriculars) are essential.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/St-Ignatius-College-Prep/",
+                "location": "Near West Side"
+            },
+            "name": "St. Ignatius College Prep",
+            "ranks": {
+                "primary_rank": {
+                    "value": 6,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>This city school, where parents are often alums, has the holy trinity of religion, academics, and diversity.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/Benet-Academy/",
+                "location": "Lisle"
+            },
+            "name": "Benet Academy",
+            "ranks": {
+                "primary_rank": {
+                    "value": 7,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>Sports and service in the suburbs—for a less expensive fee than other schools on this list.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/Morgan-Park-Academy/",
+                "location": "Morgan Park"
+            },
+            "name": "Morgan Park Academy",
+            "ranks": {
+                "primary_rank": {
+                    "value": 8,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>The proud South Side institution also goes big off-campus.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/Rochelle-Zell-Jewish-High-School/",
+                "location": "Deerfield"
+            },
+            "name": "Rochelle Zell Jewish High School",
+            "ranks": {
+                "primary_rank": {
+                    "value": 9,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>This north suburban school provides a balanced blend of religious and traditional education.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "http://www.chicagomag.com/Chicago-Magazine/September-2017/Best-Private-Schools/Loyola-Academy/",
+                "location": "Wilmette"
+            },
+            "name": "Loyola Academy",
+            "ranks": {
+                "primary_rank": {
+                    "value": 10,
+                    "label": "Chicago Rankings"
+                }
+            },
+            "about_text": "<p>A modern Catholic instruction: This North Shore school celebrates Mass daily and has an entrepreneurship program.</p>\r\n"
+        }
+    ],
+    "illinoisTop20":[
+        {
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/chicago-public-schools/payton-college-preparatory-high-school-6604",
+                "location": "Chicago, IL",
+                "district": "Chicago Public Schools",
+                "district_page_url": "/education/best-high-schools/illinois/districts/chicago-public-schools-110570"
+            },
+            "name": "Payton College Preparatory High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 52,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 1,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 98,
+                    "show": true,
+                    "display_value": "98%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 93.375,
+                    "show": true,
+                    "display_value": "93.4",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 82.82293775303644,
+                    "show": false,
+                    "display_value": "82.8",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 87,
+                    "show": false,
+                    "display_value": "87%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 16,
+                    "show": false,
+                    "display_value": "16:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 92,
+                    "show": false,
+                    "display_value": "92%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\r\n\tWalter Payton College Preparatory High School&#39;s curriculum is centered on honors and Advanced Placement courses in math, science, language and the humanities, among other subjects. Students at Payton can supplement their classroom learning by participating in global exchange and study programs in countries such as France, Belize and South Africa. In addition to core courses and exchange opportunities, the school offers seminars in horseback riding and Pilates.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/chicago-public-schools/northside-college-preparatory-high-school-6601",
+                "location": "Chicago, IL",
+                "district": "Chicago Public Schools",
+                "district_page_url": "/education/best-high-schools/illinois/districts/chicago-public-schools-110570"
+            },
+            "name": "Northside College Preparatory High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 82,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 2,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 96,
+                    "show": true,
+                    "display_value": "96%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 86.85258964,
+                    "show": true,
+                    "display_value": "86.9",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 81.09142892000202,
+                    "show": false,
+                    "display_value": "81.1",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": null,
+                    "show": false,
+                    "display_value": "N/A",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 17,
+                    "show": false,
+                    "display_value": "17:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 100,
+                    "show": false,
+                    "display_value": "100%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\r\n\tNorthside College Preparatory High School&#39;s curriculum focuses on in-depth study of topics such as physics, constitutional law and computer science. Students can also choose from several language programs and a range of clubs and extracurricular activities. Most classes at Northside College Preparatory High School are honors or Advanced Placement level, and students can participate in study abroad programs to enhance their learning.</p>\r\n"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/chicago-public-schools/lane-technical-high-school-6572",
+                "location": "Chicago, IL",
+                "district": "Chicago Public Schools",
+                "district_page_url": "/education/best-high-schools/illinois/districts/chicago-public-schools-110570"
+            },
+            "name": "Lane Technical High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 112,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 3,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 94,
+                    "show": true,
+                    "display_value": "94%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 83.59375,
+                    "show": true,
+                    "display_value": "83.6",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 54.99327434364065,
+                    "show": false,
+                    "display_value": "55.0",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 80,
+                    "show": false,
+                    "display_value": "80%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 19,
+                    "show": false,
+                    "display_value": "19:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 76,
+                    "show": false,
+                    "display_value": "76%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nLane Technical High School is ranked 3rd\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Lane Technical High School is 94 percent.\n\n\n\nThe student body makeup is 44 percent male and\n56 percent female, and the\n\n\ntotal minority enrollment is\n65 percent.\nLane Technical High School is\n1 of 116 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/chicago-public-schools-110570'>Chicago Public Schools</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/chicago-public-schools/phoenix-military-academy-high-school-6610",
+                "location": "Chicago, IL",
+                "district": "Chicago Public Schools",
+                "district_page_url": "/education/best-high-schools/illinois/districts/chicago-public-schools-110570"
+            },
+            "name": "Phoenix Military Academy High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 122,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 4,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 95,
+                    "show": true,
+                    "display_value": "95%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 82.93269231,
+                    "show": true,
+                    "display_value": "82.9",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 9.758297258297258,
+                    "show": false,
+                    "display_value": "9.8",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 30,
+                    "show": false,
+                    "display_value": "30%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 22,
+                    "show": false,
+                    "display_value": "22:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 25,
+                    "show": false,
+                    "display_value": "25%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nPhoenix Military Academy High School is ranked 4th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Phoenix Military Academy High School is 95 percent.\n\n\n\nThe student body makeup is 56 percent male and\n44 percent female, and the\n\n\ntotal minority enrollment is\n100 percent.\nPhoenix Military Academy High School is\n1 of 116 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/chicago-public-schools-110570'>Chicago Public Schools</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/chicago-public-schools/jones-college-prep-high-school-6577",
+                "location": "Chicago, IL",
+                "district": "Chicago Public Schools",
+                "district_page_url": "/education/best-high-schools/illinois/districts/chicago-public-schools-110570"
+            },
+            "name": "Jones College Prep High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 124,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 5,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 99,
+                    "show": true,
+                    "display_value": "99%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 82.83972125,
+                    "show": true,
+                    "display_value": "82.8",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 65.04965090821146,
+                    "show": false,
+                    "display_value": "65.0",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 67,
+                    "show": false,
+                    "display_value": "67%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 18,
+                    "show": false,
+                    "display_value": "18:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 74,
+                    "show": false,
+                    "display_value": "74%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nJones College Prep High School is ranked 5th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Jones College Prep High School is 88 percent.\n\n\n\nThe student body makeup is 42 percent male and\n58 percent female, and the\n\n\ntotal minority enrollment is\n63 percent.\nJones College Prep High School is\n1 of 116 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/chicago-public-schools-110570'>Chicago Public Schools</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/chicago-public-schools/young-magnet-high-school-6551",
+                "location": "Chicago, IL",
+                "district": "Chicago Public Schools",
+                "district_page_url": "/education/best-high-schools/illinois/districts/chicago-public-schools-110570"
+            },
+            "name": "Young Magnet High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 140,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 6,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 96,
+                    "show": true,
+                    "display_value": "96%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 80.82255083,
+                    "show": true,
+                    "display_value": "80.8",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 62.93030227514782,
+                    "show": false,
+                    "display_value": "62.9",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 91,
+                    "show": false,
+                    "display_value": "91%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 19,
+                    "show": false,
+                    "display_value": "19:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 86,
+                    "show": false,
+                    "display_value": "86%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nYoung Magnet High School is ranked 6th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Young Magnet High School is 87 percent.\n\n\n\nThe student body makeup is 44 percent male and\n56 percent female, and the\n\n\ntotal minority enrollment is\n71 percent.\nYoung Magnet High School is\n1 of 116 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/chicago-public-schools-110570'>Chicago Public Schools</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/adlai-e-stevenson-hsd-125/adlai-e-stevenson-high-school-6955",
+                "location": "Lincolnshire, IL",
+                "district": "Adlai E Stevenson Hsd 125",
+                "district_page_url": "/education/best-high-schools/illinois/districts/adlai-e-stevenson-hsd-125-108834"
+            },
+            "name": "Adlai E Stevenson High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 199,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 7,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 95,
+                    "show": true,
+                    "display_value": "95%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 73.66879659,
+                    "show": true,
+                    "display_value": "73.7",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 79.8744276013294,
+                    "show": false,
+                    "display_value": "79.9",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 51,
+                    "show": false,
+                    "display_value": "51%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 14,
+                    "show": false,
+                    "display_value": "14:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 73,
+                    "show": false,
+                    "display_value": "73%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nAdlai E Stevenson High School is ranked 7th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Adlai E Stevenson High School is 80 percent.\n\n\n\nThe student body makeup is 52 percent male and\n48 percent female, and the\n\n\ntotal minority enrollment is\n37 percent.\nAdlai E Stevenson High School is\nthe only high school\n\nin the\n<a href='/education/best-high-schools/illinois/districts/adlai-e-stevenson-hsd-125-108834'>Adlai E Stevenson Hsd 125</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/proviso-twp-hsd-209/proviso-math-and-science-academy-6961",
+                "location": "Forest Park, IL",
+                "district": "Proviso Twp Hsd 209",
+                "district_page_url": "/education/best-high-schools/illinois/districts/proviso-twp-hsd-209-102849"
+            },
+            "name": "Proviso Math and Science Academy",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 261,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 8,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 100,
+                    "show": true,
+                    "display_value": "100%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 68.87755102,
+                    "show": true,
+                    "display_value": "68.9",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 32.05348069105691,
+                    "show": false,
+                    "display_value": "32.1",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 70,
+                    "show": false,
+                    "display_value": "70%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 20,
+                    "show": false,
+                    "display_value": "20:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 70,
+                    "show": false,
+                    "display_value": "70%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nProviso Math and Science Academy is ranked 8th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Proviso Math and Science Academy is 84 percent.\n\n\n\nThe student body makeup is 39 percent male and\n61 percent female, and the\n\n\ntotal minority enrollment is\n94 percent.\nProviso Math and Science Academy is\n1 of 3 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/proviso-twp-hsd-209-102849'>Proviso Twp Hsd 209</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/chicago-public-schools/lincoln-park-high-school-6591",
+                "location": "Chicago, IL",
+                "district": "Chicago Public Schools",
+                "district_page_url": "/education/best-high-schools/illinois/districts/chicago-public-schools-110570"
+            },
+            "name": "Lincoln Park High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 324,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 9,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 84,
+                    "show": true,
+                    "display_value": "84%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 65.27127402,
+                    "show": true,
+                    "display_value": "65.3",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 38.99559434042193,
+                    "show": false,
+                    "display_value": "39.0",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 20,
+                    "show": false,
+                    "display_value": "20%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 18,
+                    "show": false,
+                    "display_value": "18:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 45,
+                    "show": false,
+                    "display_value": "45%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nLincoln Park High School is ranked 9th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Lincoln Park High School is 84 percent.\n\n\n\nThe student body makeup is 44 percent male and\n56 percent female, and the\n\n\ntotal minority enrollment is\n72 percent.\nLincoln Park High School is\n1 of 116 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/chicago-public-schools-110570'>Chicago Public Schools</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/chicago-public-schools/brooks-college-prep-academy-high-school-6597",
+                "location": "Chicago, IL",
+                "district": "Chicago Public Schools",
+                "district_page_url": "/education/best-high-schools/illinois/districts/chicago-public-schools-110570"
+            },
+            "name": "Brooks College Prep Academy High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 345,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 10,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 96,
+                    "show": true,
+                    "display_value": "96%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 64.33823529,
+                    "show": true,
+                    "display_value": "64.3",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 17.26107226107226,
+                    "show": false,
+                    "display_value": "17.3",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 44,
+                    "show": false,
+                    "display_value": "44%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 19,
+                    "show": false,
+                    "display_value": "19:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 72,
+                    "show": false,
+                    "display_value": "72%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nBrooks College Prep Academy High School is ranked 10th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Brooks College Prep Academy High School is 96 percent.\n\n\n\nThe student body makeup is 37 percent male and\n63 percent female, and the\n\n\ntotal minority enrollment is\n100 percent.\nBrooks College Prep Academy High School is\n1 of 116 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/chicago-public-schools-110570'>Chicago Public Schools</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/city-of-chicago-sd-299/lindblom-math-and-science-academy-153376",
+                "location": "Chicago, IL",
+                "district": "City Of Chicago SD 299",
+                "district_page_url": "/education/best-high-schools/illinois/districts/city-of-chicago-sd-299-110570"
+            },
+            "name": "Lindblom Math and Science Academy",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 395,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 11,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 94,
+                    "show": true,
+                    "display_value": "94%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 62.26851852,
+                    "show": true,
+                    "display_value": "62.3",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 26.604459226410444,
+                    "show": false,
+                    "display_value": "26.6",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 58,
+                    "show": false,
+                    "display_value": "58%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 17,
+                    "show": false,
+                    "display_value": "17:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 46,
+                    "show": false,
+                    "display_value": "46%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nLindblom Math and Science Academy is ranked 11th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Lindblom Math and Science Academy is 87 percent.\n\n\n\nThe student body makeup is 41 percent male and\n59 percent female, and the\n\n\ntotal minority enrollment is\n98 percent.\nLindblom Math and Science Academy is\n1 of 116 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/city-of-chicago-sd-299-110570'>City Of Chicago SD 299</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/community-high-school-district-128/libertyville-high-school-6821",
+                "location": "Libertyville, IL",
+                "district": "Community High School District 128",
+                "district_page_url": "/education/best-high-schools/illinois/districts/community-high-school-district-128-108980"
+            },
+            "name": "Libertyville High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 447,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 12,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 96,
+                    "show": true,
+                    "display_value": "96%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 60.22044088,
+                    "show": true,
+                    "display_value": "60.2",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 82.94094601910581,
+                    "show": false,
+                    "display_value": "82.9",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 58,
+                    "show": false,
+                    "display_value": "58%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 14,
+                    "show": false,
+                    "display_value": "14:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 61,
+                    "show": false,
+                    "display_value": "61%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nLibertyville High School is ranked 12th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Libertyville High School is 62 percent.\n\n\n\nThe student body makeup is 52 percent male and\n48 percent female, and the\n\n\ntotal minority enrollment is\n18 percent.\nLibertyville High School is\n1 of 2 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/community-high-school-district-128-108980'>Community High School District 128</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/hinsdale-twp-hsd-86/hinsdale-central-high-school-6781",
+                "location": "Hinsdale, IL",
+                "district": "Hinsdale Twp Hsd 86",
+                "district_page_url": "/education/best-high-schools/illinois/districts/hinsdale-twp-hsd-86-105787"
+            },
+            "name": "Hinsdale Central High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 489,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 13,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 95,
+                    "show": true,
+                    "display_value": "95%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 58.15677966,
+                    "show": true,
+                    "display_value": "58.2",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "gold",
+                    "show": true,
+                    "display_value": "Gold",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": 80.23363083169211,
+                    "show": false,
+                    "display_value": "80.2",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 33,
+                    "show": false,
+                    "display_value": "33%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 15,
+                    "show": false,
+                    "display_value": "15:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 61,
+                    "show": false,
+                    "display_value": "61%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nHinsdale Central High School is ranked 13th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Hinsdale Central High School is 61 percent.\n\n\n\nThe student body makeup is 50 percent male and\n50 percent female, and the\n\n\ntotal minority enrollment is\n27 percent.\nHinsdale Central High School is\n1 of 2 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/hinsdale-twp-hsd-86-105787'>Hinsdale Twp Hsd 86</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/township-hsd-214/john-hersey-high-school-6470",
+                "location": "Arlington Heights, IL",
+                "district": "Township Hsd 214",
+                "district_page_url": "/education/best-high-schools/illinois/districts/township-hsd-214-102738"
+            },
+            "name": "John Hersey High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 610,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 14,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 96,
+                    "show": true,
+                    "display_value": "96%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 54.50819672,
+                    "show": true,
+                    "display_value": "54.5",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "silver",
+                    "show": true,
+                    "display_value": "Silver",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": null,
+                    "show": false,
+                    "display_value": "N/A",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 15,
+                    "show": false,
+                    "display_value": "15%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 17,
+                    "show": false,
+                    "display_value": "17:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 62,
+                    "show": false,
+                    "display_value": "62%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nJohn Hersey High School is ranked 14th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at John Hersey High School is 62 percent.\n\n\n\nThe student body makeup is 50 percent male and\n50 percent female, and the\n\n\ntotal minority enrollment is\n28 percent.\nJohn Hersey High School is\n1 of 6 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/township-hsd-214-102738'>Township Hsd 214</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/community-high-school-district-128/vernon-hills-high-school-6822",
+                "location": "Vernon Hills, IL",
+                "district": "Community High School District 128",
+                "district_page_url": "/education/best-high-schools/illinois/districts/community-high-school-district-128-108980"
+            },
+            "name": "Vernon Hills High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 640,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 15,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 95,
+                    "show": true,
+                    "display_value": "95%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 53.75874126,
+                    "show": true,
+                    "display_value": "53.8",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "silver",
+                    "show": true,
+                    "display_value": "Silver",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": null,
+                    "show": false,
+                    "display_value": "N/A",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 62,
+                    "show": false,
+                    "display_value": "62%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 13,
+                    "show": false,
+                    "display_value": "13:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 75,
+                    "show": false,
+                    "display_value": "75%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nVernon Hills High School is ranked 15th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Vernon Hills High School is 56 percent.\n\n\n\nThe student body makeup is 50 percent male and\n50 percent female, and the\n\n\ntotal minority enrollment is\n40 percent.\nVernon Hills High School is\n1 of 2 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/community-high-school-district-128-108980'>Community High School District 128</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/indian-prairie-cusd-204/neuqua-valley-high-school-7067",
+                "location": "Naperville, IL",
+                "district": "Indian Prairie CUSD 204",
+                "district_page_url": "/education/best-high-schools/illinois/districts/indian-prairie-cusd-204-108204"
+            },
+            "name": "Neuqua Valley High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 646,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 16,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 97,
+                    "show": true,
+                    "display_value": "97%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 53.61349036,
+                    "show": true,
+                    "display_value": "53.6",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "silver",
+                    "show": true,
+                    "display_value": "Silver",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": null,
+                    "show": false,
+                    "display_value": "N/A",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 47,
+                    "show": false,
+                    "display_value": "47%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 17,
+                    "show": false,
+                    "display_value": "17:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 66,
+                    "show": false,
+                    "display_value": "66%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nNeuqua Valley High School is ranked 16th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Neuqua Valley High School is 57 percent.\n\n\n\nThe student body makeup is 51 percent male and\n49 percent female, and the\n\n\ntotal minority enrollment is\n40 percent.\nNeuqua Valley High School is\n1 of 3 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/indian-prairie-cusd-204-108204'>Indian Prairie CUSD 204</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/elmhurst-sd-205/york-community-high-school-6724",
+                "location": "Elmhurst, IL",
+                "district": "Elmhurst SD 205",
+                "district_page_url": "/education/best-high-schools/illinois/districts/elmhurst-sd-205-112715"
+            },
+            "name": "York Community High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 703,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 17,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 94,
+                    "show": true,
+                    "display_value": "94%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 52.03402367,
+                    "show": true,
+                    "display_value": "52.0",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "silver",
+                    "show": true,
+                    "display_value": "Silver",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": null,
+                    "show": false,
+                    "display_value": "N/A",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 27,
+                    "show": false,
+                    "display_value": "27%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 16,
+                    "show": false,
+                    "display_value": "16:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 52,
+                    "show": false,
+                    "display_value": "52%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nYork Community High School is ranked 17th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at York Community High School is 56 percent.\n\n\n\nThe student body makeup is 51 percent male and\n49 percent female, and the\n\n\ntotal minority enrollment is\n25 percent.\nYork Community High School is\nthe only high school\n\nin the\n<a href='/education/best-high-schools/illinois/districts/elmhurst-sd-205-112715'>Elmhurst SD 205</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/st-charles-cusd-303/st-charles-north-high-school-7012",
+                "location": "St Charles, IL",
+                "district": "St Charles CUSD 303",
+                "district_page_url": "/education/best-high-schools/illinois/districts/st-charles-cusd-303-105588"
+            },
+            "name": "St Charles North High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 782,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 18,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 99,
+                    "show": true,
+                    "display_value": "99%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 50.04743833,
+                    "show": true,
+                    "display_value": "50.0",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "silver",
+                    "show": true,
+                    "display_value": "Silver",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": null,
+                    "show": false,
+                    "display_value": "N/A",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 45,
+                    "show": false,
+                    "display_value": "45%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 15,
+                    "show": false,
+                    "display_value": "15:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 50,
+                    "show": false,
+                    "display_value": "50%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nSt Charles North High School is ranked 18th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at St Charles North High School is 57 percent.\n\n\n\nThe student body makeup is 52 percent male and\n48 percent female, and the\n\n\ntotal minority enrollment is\n14 percent.\nSt Charles North High School is\n1 of 2 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/st-charles-cusd-303-105588'>St Charles CUSD 303</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/indian-prairie-cusd-204/metea-valley-high-school-7069",
+                "location": "Aurora, IL",
+                "district": "Indian Prairie CUSD 204",
+                "district_page_url": "/education/best-high-schools/illinois/districts/indian-prairie-cusd-204-108204"
+            },
+            "name": "Metea Valley High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 854,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 19,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 96,
+                    "show": true,
+                    "display_value": "96%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 48.43987823,
+                    "show": true,
+                    "display_value": "48.4",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "silver",
+                    "show": true,
+                    "display_value": "Silver",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": null,
+                    "show": false,
+                    "display_value": "N/A",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 38,
+                    "show": false,
+                    "display_value": "38%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 16,
+                    "show": false,
+                    "display_value": "16:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 65,
+                    "show": false,
+                    "display_value": "65%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nMetea Valley High School is ranked 19th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Metea Valley High School is 56 percent.\n\n\n\nThe student body makeup is 53 percent male and\n47 percent female, and the\n\n\ntotal minority enrollment is\n52 percent.\nMetea Valley High School is\n1 of 3 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/indian-prairie-cusd-204-108204'>Indian Prairie CUSD 204</a>.\n</p>"
+        },{
+            "school": {
+                "profile_url": "/education/best-high-schools/illinois/districts/hinsdale-twp-hsd-86/hinsdale-south-high-school-6782",
+                "location": "Darien, IL",
+                "district": "Hinsdale Twp Hsd 86",
+                "district_page_url": "/education/best-high-schools/illinois/districts/hinsdale-twp-hsd-86-105787"
+            },
+            "name": "Hinsdale South High School",
+            "ranks": {
+                "secondary_rank": {
+                    "value": 864,
+                    "label": "National Rankings"
+                },
+                "primary_rank": {
+                    "value": 20,
+                    "label": "Illinois Rankings"
+                }
+            },
+            "search_type": "canned-state",
+            "data": [
+                {
+                    "raw_value": 93,
+                    "show": true,
+                    "display_value": "93%",
+                    "label": "Graduation Rate"
+                    },
+                {
+                    "raw_value": 48.27008929,
+                    "show": true,
+                    "display_value": "48.3",
+                    "label": "College Readiness"
+                    },
+                {
+                    "raw_value": "silver",
+                    "show": true,
+                    "display_value": "Silver",
+                    "label": "Medal Awarded"
+                    },
+                {
+                    "raw_value": null,
+                    "show": false,
+                    "display_value": "N/A",
+                    "label": "STEM Index"
+                    },
+                {
+                    "raw_value": 34,
+                    "show": false,
+                    "display_value": "34%",
+                    "label": "Math Proficiency"
+                    },
+                {
+                    "raw_value": 13,
+                    "show": false,
+                    "display_value": "13:1",
+                    "label": "Student-Teacher Ratio"
+                    },
+                {
+                    "raw_value": 53,
+                    "show": false,
+                    "display_value": "53%",
+                    "label": "English Proficiency"
+                    }
+                ],
+            "about_text": "<p>\n\nHinsdale South High School is ranked 20th\nwithin Illinois.\n\n\nStudents\n\n\nhave the opportunity to take Advanced Placement&#174; course work and exams.\nThe AP&#174; participation rate at Hinsdale South High School is 57 percent.\n\n\n\nThe student body makeup is 53 percent male and\n47 percent female, and the\n\n\ntotal minority enrollment is\n45 percent.\nHinsdale South High School is\n1 of 2 high schools\n\nin the\n<a href='/education/best-high-schools/illinois/districts/hinsdale-twp-hsd-86-105787'>Hinsdale Twp Hsd 86</a>.\n</p>"
+        }
+    ]
+}

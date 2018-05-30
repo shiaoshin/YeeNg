@@ -1,0 +1,277 @@
+@charset "UTF-8";
+
+// Color
+@import "components/color-variables";
+@import "components/color-classes";
+
+// Variables;
+@import "components/variables";
+
+// Reset
+@import "components/normalize";
+
+// components
+@import "components/global";
+@import "components/badges";
+@import "components/icons-material-design";
+@import "components/grid";
+@import "components/navbar";
+@import "components/typography";
+@import "components/transitions";
+@import "components/cards";
+@import "components/toast";
+@import "components/tabs";
+@import "components/tooltip";
+@import "components/buttons";
+@import "components/dropdown";
+@import "components/waves";
+@import "components/modal";
+@import "components/collapsible";
+@import "components/chips";
+@import "components/materialbox";
+@import "components/forms/forms";
+@import "components/table_of_contents";
+@import "components/sidenav";
+@import "components/preloader";
+@import "components/slider";
+@import "components/carousel";
+@import "components/tapTarget";
+@import "components/pulse";
+@import "components/datepicker";
+@import "components/timepicker";
+
+// Carousel
+.carousel-fixed-item > h1,
+.parallax-container > h1{
+    font-size: 3rem;
+    text-shadow: 0 0 15px $off-black;
+}
+.carousel.carousel-slider .carousel-fixed-item.with-indicators {
+    bottom: calc(50% - 5.5rem);
+}
+.carousel .carousel-item {
+    opacity: 1 !important;
+}
+.carousel.testimonialSlide {
+    .carousel-item {
+        width: 75%;
+        color: $off-black;
+        
+        img {
+            position: absolute;
+            left: -24px;
+            width: 22px;
+            
+            &:last-of-type {
+                position: relative;
+                margin-left: 1rem;
+            }
+        }
+    }
+    .indicator-item {
+        background-color: $off-black;
+        
+        &.active {
+            background-color: $primary-color;
+        }
+    }
+}
+.carousel.cardSlide .carousel-item {
+    width: 25%;
+}
+.carousel-nav {
+    position: absolute;
+    margin-top: -10vw;
+    left: -30px;
+
+    &:last-of-type {
+        right: -30px;
+        left: auto;
+    }
+    
+    img {
+        width: 60px;
+    }
+}
+
+// Testimonial
+.testimonial {
+    background: url(../img/skyline.png) no-repeat center bottom;
+    background-size: 85%;
+}
+
+// Profile
+.profile {
+    background: url(../img/C21.svg) no-repeat;
+    background-position: right bottom -0.3rem;
+    background-size: 9rem;
+    
+    > img {
+        width: 8.5rem;
+        border-radius: 50%;
+        border: 3px solid #b9aa82;
+        position: absolute;
+        margin-top: -4.8rem;
+        margin-left: -15rem;
+    }
+     h4 {
+        margin: 0 0 0.5rem 50px;
+        padding-top: 1rem;
+        font-weight: bold;
+    }
+    .social {
+        a {
+            margin-left: 0.5rem;
+        }
+        img {
+            width: 2.5rem;
+        }
+    }
+}
+
+// Background
+.background {
+    background: url(../img/EHO.png) no-repeat;
+    background-position: right top;
+    background-size: 6rem;
+}
+
+// Card Slides
+.cardSlide {
+    a {
+        color: $off-black;
+    }
+    
+    h6 {
+        font-size: 1.15rem;
+        font-weight: 600;
+        margin: 0;
+    }
+    
+    div {
+        font-size: 0.95rem;
+        line-height: 100%;
+    }
+    
+    .label {
+        background-color: $primary-color;
+        position: absolute;
+        color: white;
+        margin-left: -5px;
+        margin-top: -2.5rem;
+        padding: 2px 7px;
+        border-radius: 5px;
+    }
+}
+
+// Service Area
+.parallax-container {
+    height: 320px;
+}
+
+// Contact
+.contact {
+    line-height: 120%;
+}
+
+// Form
+input[type=text].browser-default, 
+textarea.browser-default {
+    background-color: #fff;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    height: 2.5rem;
+    width: calc(100% - 1rem);
+    font-size: 16px;
+    line-height: 2rem;
+    margin: 0 0 0.5rem 0;
+    padding: 0 10px;
+    box-shadow: none;
+    box-sizing: content-box;
+}
+.btn-full {
+    width: 100%;
+}
+
+// Utilities
+.cancel-margin-bottom {
+    margin-bottom: 0;
+}
+.responsive-map {
+    position: relative;
+    padding-bottom: 100%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.responsive-map iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+ul {
+    padding-left: 1.25rem;
+}
+li {
+    list-style: square;
+}
+
+// School Rankings
+.col > .school {
+    border-radius: 4px;
+    padding: 10px;
+    display: block;
+    margin-bottom: 15px;
+    height: 240px;
+    position: relative;
+    transition: all 0.15s ease-in-out;
+    box-shadow: 0 0 2px color("gold", "darken-1");
+    opacity: 0.75;
+    
+    &:hover {
+        background-color: color("gold","lighten-4")!important;
+        transform: translateY(-3px) scale(1.025);
+        box-shadow: 0 2px 5px color("gold", "darken-3");
+        opacity: 1;
+    }
+    
+    h5 {
+        line-height: 90%;
+        margin-top: 5px;
+        
+        small { line-height: 0; }
+        
+        i { 
+            font-size: 12px;
+            font-style: normal;
+        }
+    }
+    
+    .primaryRank {
+        position: absolute;
+        top: -10px;
+        left: -15px;
+
+        i { font-size: 30px; }
+
+        &::after {
+            counter-increment: test;
+            content: counter(test);
+            color: white;
+            position: absolute;
+            font-size: 10px;
+            line-height: 30px;
+            top: 0px;
+            left: 0px;
+            width: 30px;
+            text-align: center;
+        }
+    }
+}
+
+.container-fluid {
+    counter-reset: test;
+}

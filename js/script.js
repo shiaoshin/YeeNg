@@ -57,8 +57,9 @@ $(document).ready(function(){
     
     // Carousel Control
     $(".carousel-nav").on("click",function(e){
+        var targetSlide = $(this).data("slide");
         e.preventDefault();
-        var elem = document.getElementById("listingSlide");
+        var elem = document.getElementById(targetSlide);
         var instance = M.Carousel.getInstance(elem);
         if($(this).hasClass("left")){
             instance.prev();

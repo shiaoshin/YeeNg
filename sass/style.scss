@@ -53,6 +53,8 @@
     opacity: 1 !important;
 }
 .carousel.testimonialSlide {
+    height: 250px;
+    
     .carousel-item {
         width: 75%;
         color: $off-black;
@@ -75,9 +77,6 @@
             background-color: $primary-color;
         }
     }
-}
-.carousel.cardSlide .carousel-item {
-    width: 25%;
 }
 .carousel-nav {
     position: absolute;
@@ -138,6 +137,14 @@
 
 // Card Slides
 .cardSlide {
+    &.carousel {
+        height: 18vw;
+    }
+    
+    &.carousel .carousel-item {
+        width: 25%;    
+    }
+    
     a {
         color: $off-black;
     }
@@ -168,6 +175,9 @@
 .parallax-container {
     height: 320px;
 }
+#serviceArea + h5 {
+    line-height: 5rem;
+}
 
 // Contact
 .contact {
@@ -175,6 +185,9 @@
 }
 
 // Form
+.contactForm{
+    margin-bottom: 1rem;
+}
 input[type=text].browser-default, 
 textarea.browser-default {
     background-color: #fff;
@@ -182,7 +195,7 @@ textarea.browser-default {
     border-radius: 4px;
     outline: none;
     height: 2.5rem;
-    width: calc(100% - 1rem);
+    width: calc(100% - 1.5rem);
     font-size: 16px;
     line-height: 2rem;
     margin: 0 0 0.5rem 0;
@@ -274,4 +287,89 @@ li {
 
 .container-fluid {
     counter-reset: test;
+}
+
+// Media Query
+
+@media #{$medium-only} {
+    .carousel-fixed-item > h1,
+    .parallax-container > h1{
+        font-size: 2.5rem;
+    }
+    .carousel.carousel-slider .carousel-fixed-item.with-indicators {
+        bottom: calc(50% - 3.5rem);
+    }
+    .cardSlide.carousel {
+        height: 45vw;
+        
+        .carousel-item {
+            width: 50%;    
+        }
+    }
+    .carousel-nav {
+        margin-top: -24vw;
+        left: -20px;
+
+        &:last-of-type {
+            right: -20px;
+        }
+    }
+    .col > .school {
+        height: 175px;
+    }
+}
+@media #{$small-and-down} {
+    .profile {
+        > img {
+            width: 6rem;
+            position: relative;
+            margin: -1rem auto;
+        }
+        h4 {
+            margin: 0;
+        }
+    }
+    .profile {
+        background-size: 6rem;
+    }
+    .background {
+        background-size: 4rem;
+    }
+    .carousel.testimonialSlide {
+        height: 400px;
+    }
+    .parallax-container {
+        height: 380px;
+    }
+    #serviceArea + h5 {
+        line-height: 2rem;
+    }
+    h3 {
+        text-align: center;
+    }
+    .carousel-fixed-item > h1,
+    .parallax-container > h1{
+        font-size: 2rem;
+    }
+    .carousel.carousel-slider .carousel-fixed-item.with-indicators {
+        bottom: calc(50% - 3.5rem);
+    }   
+    .cardSlide.carousel {
+        height: 90vw;
+        
+        .carousel-item {
+            width: 90%;    
+        }
+    }
+    .carousel-nav {
+        margin-top: -49vw;
+        left: 0px;
+
+        &:last-of-type {
+            right: 0px;
+        }
+    }
+    .col > .school {
+        height: 175px;
+    }
 }

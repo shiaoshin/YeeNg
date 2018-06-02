@@ -76,10 +76,12 @@ $(document).ready(function(){
                  console.log(entry);
                  var firstChild = "";
                  if(key == 0 || key%4 == 0){
-                     firstChild = " offset-m2";
+                     firstChild = " offset-l2 offset-m1";
+                 }else if(key%2 == 0 && key%4 != 0){
+                     firstChild = " offset-m1";
                  }
                  $("#article").append(
-                     "<div class='col s12 m2"+firstChild+"'>"+
+                     "<div class='col s12 m5 l2"+firstChild+"'>"+
                         "<a class='gold lighten-3 school black-text' href='https://www.usnews.com"+entry.school.profile_url+"' target='_blank' title='详情'>"+
                             "<h5>"+entry.name+"<br><small>"+entry.school.location+"<br><i>全國排名#"+entry.ranks.secondary_rank.value+"</i></small></h5>"+
                             "<span class='primaryRank' title='伊州排名'><i class='material-icons'>bookmark</i></span>"+
@@ -97,10 +99,12 @@ $(document).ready(function(){
                  console.log(entry);
                  var firstChild = "";
                  if(key == 0 || key%4 == 0){
-                     firstChild = " offset-m2";
+                     firstChild = " offset-l2 offset-m1";
+                 }else if(key%2 == 0 && key%4 != 0){
+                     firstChild = " offset-m1";
                  }
                  $("#article").append(
-                     "<div class='col s12 m2"+firstChild+"'>"+
+                     "<div class='col s12 m5 l2"+firstChild+"'>"+
                         "<a class='gold lighten-3 school black-text' href='"+entry.school.profile_url+"' target='_blank' title='详情'>"+
                             "<h5>"+entry.name+"<br><small>"+entry.school.location+"</small></h5>"+
                             "<span class='primaryRank' title='伊州排名'><i class='material-icons'>bookmark</i></span>"+                            

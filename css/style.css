@@ -10226,72 +10226,72 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
   opacity: 1 !important;
 }
 
-/* line 56, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 55, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+.carousel.testimonialSlide {
+  height: 250px;
+}
+
+/* line 58, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .carousel.testimonialSlide .carousel-item {
   width: 75%;
   color: rgba(0, 0, 0, 0.87);
 }
 
-/* line 60, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 62, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .carousel.testimonialSlide .carousel-item img {
   position: absolute;
   left: -24px;
   width: 22px;
 }
 
-/* line 65, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 67, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .carousel.testimonialSlide .carousel-item img:last-of-type {
   position: relative;
   margin-left: 1rem;
 }
 
-/* line 71, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 73, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .carousel.testimonialSlide .indicator-item {
   background-color: rgba(0, 0, 0, 0.87);
 }
 
-/* line 74, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 76, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .carousel.testimonialSlide .indicator-item.active {
   background-color: #b9aa82;
 }
 
-/* line 79, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
-.carousel.cardSlide .carousel-item {
-  width: 25%;
-}
-
-/* line 82, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 81, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .carousel-nav {
   position: absolute;
   margin-top: -10vw;
   left: -30px;
 }
 
-/* line 87, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 86, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .carousel-nav:last-of-type {
   right: -30px;
   left: auto;
 }
 
-/* line 92, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 91, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .carousel-nav img {
   width: 60px;
 }
 
-/* line 98, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 97, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .testimonial {
   background: url(../img/skyline.png) no-repeat center bottom;
   background-size: 85%;
 }
 
-/* line 104, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 103, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .profile {
   background: url(../img/C21.svg) no-repeat;
   background-position: right bottom -0.3rem;
   background-size: 9rem;
 }
 
-/* line 109, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 108, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .profile > img {
   width: 8.5rem;
   border-radius: 50%;
@@ -10301,49 +10301,59 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
   margin-left: -15rem;
 }
 
-/* line 117, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 116, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .profile h4 {
   margin: 0 0 0.5rem 50px;
   padding-top: 1rem;
   font-weight: bold;
 }
 
-/* line 123, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 122, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .profile .social a {
   margin-left: 0.5rem;
 }
 
-/* line 126, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 125, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .profile .social img {
   width: 2.5rem;
 }
 
-/* line 133, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 132, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .background {
   background: url(../img/EHO.png) no-repeat;
   background-position: right top;
   background-size: 6rem;
 }
 
-/* line 141, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 140, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+.cardSlide.carousel {
+  height: 18vw;
+}
+
+/* line 144, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+.cardSlide.carousel .carousel-item {
+  width: 25%;
+}
+
+/* line 148, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .cardSlide a {
   color: rgba(0, 0, 0, 0.87);
 }
 
-/* line 145, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 152, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .cardSlide h6 {
   font-size: 1.15rem;
   font-weight: 600;
   margin: 0;
 }
 
-/* line 151, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 158, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .cardSlide div {
   font-size: 0.95rem;
   line-height: 100%;
 }
 
-/* line 156, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 163, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .cardSlide .label {
   background-color: #b9aa82;
   position: absolute;
@@ -10354,17 +10364,27 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
   border-radius: 5px;
 }
 
-/* line 168, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 175, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .parallax-container {
   height: 320px;
 }
 
-/* line 173, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 178, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+#serviceArea + h5 {
+  line-height: 5rem;
+}
+
+/* line 183, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .contact {
   line-height: 120%;
 }
 
-/* line 178, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 188, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+.contactForm {
+  margin-bottom: 1rem;
+}
+
+/* line 191, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 input[type=text].browser-default,
 textarea.browser-default {
   background-color: #fff;
@@ -10372,7 +10392,7 @@ textarea.browser-default {
   border-radius: 4px;
   outline: none;
   height: 2.5rem;
-  width: calc(100% - 1rem);
+  width: calc(100% - 1.5rem);
   font-size: 16px;
   line-height: 2rem;
   margin: 0 0 0.5rem 0;
@@ -10381,17 +10401,17 @@ textarea.browser-default {
   box-sizing: content-box;
 }
 
-/* line 193, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 206, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .btn-full {
   width: 100%;
 }
 
-/* line 198, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 211, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .cancel-margin-bottom {
   margin-bottom: 0;
 }
 
-/* line 201, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 214, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .responsive-map {
   position: relative;
   padding-bottom: 100%;
@@ -10400,7 +10420,7 @@ textarea.browser-default {
   border-radius: 10px;
 }
 
-/* line 208, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 221, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .responsive-map iframe {
   position: absolute;
   top: 0;
@@ -10409,17 +10429,17 @@ textarea.browser-default {
   height: 100% !important;
 }
 
-/* line 215, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 228, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 ul {
   padding-left: 1.25rem;
 }
 
-/* line 218, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 231, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 li {
   list-style: square;
 }
 
-/* line 223, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 236, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .col > .school {
   border-radius: 4px;
   padding: 10px;
@@ -10432,7 +10452,7 @@ li {
   opacity: 0.75;
 }
 
-/* line 234, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 247, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .col > .school:hover {
   background-color: #ead6b7 !important;
   transform: translateY(-3px) scale(1.025);
@@ -10440,36 +10460,36 @@ li {
   opacity: 1;
 }
 
-/* line 241, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 254, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .col > .school h5 {
   line-height: 90%;
   margin-top: 5px;
 }
 
-/* line 245, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 258, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .col > .school h5 small {
   line-height: 0;
 }
 
-/* line 247, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 260, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .col > .school h5 i {
   font-size: 12px;
   font-style: normal;
 }
 
-/* line 253, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 266, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .col > .school .primaryRank {
   position: absolute;
   top: -10px;
   left: -15px;
 }
 
-/* line 258, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 271, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .col > .school .primaryRank i {
   font-size: 30px;
 }
 
-/* line 260, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 273, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .col > .school .primaryRank::after {
   counter-increment: test;
   content: counter(test);
@@ -10483,9 +10503,109 @@ li {
   text-align: center;
 }
 
-/* line 275, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+/* line 288, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
 .container-fluid {
   counter-reset: test;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 992px) {
+  /* line 295, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel-fixed-item > h1,
+  .parallax-container > h1 {
+    font-size: 2.5rem;
+  }
+  /* line 299, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel.carousel-slider .carousel-fixed-item.with-indicators {
+    bottom: calc(50% - 3.5rem);
+  }
+  /* line 302, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .cardSlide.carousel {
+    height: 45vw;
+  }
+  /* line 305, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .cardSlide.carousel .carousel-item {
+    width: 50%;
+  }
+  /* line 309, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel-nav {
+    margin-top: -24vw;
+    left: -20px;
+  }
+  /* line 313, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel-nav:last-of-type {
+    right: -20px;
+  }
+  /* line 317, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .col > .school {
+    height: 175px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  /* line 323, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .profile > img {
+    width: 6rem;
+    position: relative;
+    margin: -1rem auto;
+  }
+  /* line 328, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .profile h4 {
+    margin: 0;
+  }
+  /* line 332, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .profile {
+    background-size: 6rem;
+  }
+  /* line 335, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .background {
+    background-size: 4rem;
+  }
+  /* line 338, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel.testimonialSlide {
+    height: 400px;
+  }
+  /* line 341, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .parallax-container {
+    height: 380px;
+  }
+  /* line 344, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  #serviceArea + h5 {
+    line-height: 2rem;
+  }
+  /* line 347, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  h3 {
+    text-align: center;
+  }
+  /* line 350, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel-fixed-item > h1,
+  .parallax-container > h1 {
+    font-size: 2rem;
+  }
+  /* line 354, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel.carousel-slider .carousel-fixed-item.with-indicators {
+    bottom: calc(50% - 3.5rem);
+  }
+  /* line 357, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .cardSlide.carousel {
+    height: 90vw;
+  }
+  /* line 360, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .cardSlide.carousel .carousel-item {
+    width: 90%;
+  }
+  /* line 364, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel-nav {
+    margin-top: -49vw;
+    left: 0px;
+  }
+  /* line 368, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .carousel-nav:last-of-type {
+    right: 0px;
+  }
+  /* line 372, D:/Dropbox/Temps/Website - Yee Ng/YeeNg/sass/style.scss */
+  .col > .school {
+    height: 175px;
+  }
 }
 
 /*# sourceMappingURL=../css/style.map */
